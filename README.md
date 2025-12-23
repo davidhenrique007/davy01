@@ -70,7 +70,7 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *(adicione quando criar)*
+- 💼 LinkedIn: *(www.linkedin.com/in/david-henrique-antónio-4278b9205)*
 - 📧 Email: **davidhenriqueantonio07@gmail.com**
 - 🌐 GitHub: https://github.com/davidhenrique007
 
