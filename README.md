@@ -32,17 +32,16 @@
 </p>react,github,vscode"
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-90%25-brightgreen" />
-  <img src="https://img.shields.io/badge/CSS-85%25-blue" />
-  <img src="https://img.shields.io/badge/JS-75%25-yellow" />
-</p>
+## 🛠️ Tecnologias & Proficiência
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-60%25-339933" />
-  <img src="https://img.shields.io/badge/React-65%25-61DAFB" />
-  <img src="https://img.shields.io/badge/GitHub-70%25-181717" />
-</p>
+| Tecnologia | Nível |
+|------------|-------|
+| HTML       | 90% ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen) |
+| CSS        | 85% ![CSS](https://img.shields.io/badge/CSS-85%25-blue) |
+| JavaScript | 75% ![JS](https://img.shields.io/badge/JS-75%25-yellow) |
+| Node.js    | 60% ![Node.js](https://img.shields.io/badge/Node.js-60%25-339933) |
+| React      | 65% ![React](https://img.shields.io/badge/React-65%25-61DAFB) |
+| GitHub     | 80% ![GitHub](https://img.shields.io/badge/GitHub-70%25-181717) |
 
 ---
 
