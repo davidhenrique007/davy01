@@ -83,6 +83,33 @@
 - Estado e organização de pastas  
 🔗 [Ver projeto](https://github.com/davidhenrique007)
 
+## 📂 Projetos em Destaque
+
+### 🔹 Website Responsivo
+- **Descrição:** Website moderno, totalmente responsivo, adaptável a diferentes dispositivos (desktop, tablet e mobile).  
+- **Tecnologias:** HTML, CSS, JavaScript  
+- **Funcionalidades:** Menu interativo, animações leves, formulários simples  
+- **Status:** Completo  
+- 🔗 [Ver projeto no GitHub](https://github.com/davidhenrique007)
+
+---
+
+### 🔹 Loja Virtual Simples
+- **Descrição:** Interface de e-commerce para prática de manipulação de DOM e eventos em JavaScript.  
+- **Tecnologias:** HTML, CSS, JavaScript  
+- **Funcionalidades:** Carrinho de compras, listagem de produtos, filtros básicos  
+- **Status:** Completo  
+- 🔗 [Ver projeto no GitHub](https://github.com/davidhenrique007)
+
+---
+
+### 🔹 Projeto com React *(em desenvolvimento)*
+- **Descrição:** Aplicação com React utilizando componentes reutilizáveis e gerenciamento de estado.  
+- **Tecnologias:** React, JavaScript, CSS  
+- **Funcionalidades:** Estrutura de componentes, rotas, estado centralizado  
+- **Status:** Em desenvolvimento  
+- 🔗 [Ver projeto no GitHub](https://github.com/davidhenrique007)
+
 📌 *Mais projetos serão adicionados conforme minha evolução.*
 
 ---
