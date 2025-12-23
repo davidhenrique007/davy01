@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 About Me
+ 📌 About Me
 
 - 🎓 Estudante de **Desenvolvimento Web**
 - 🌍 Localização: **Moçambique**
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Skills & Tecnologias
+🚀 Skills & Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,github,vscode"
 </p>
 
-## 🛠️ Tecnologias & Proficiência
+🛠️ Tecnologias & Proficiência
 
 | Tecnologia | Nível |
 |------------|-------|
@@ -44,7 +44,7 @@
 
 ---
 
-## 📂 Projetos em Destaque
+📂 Projetos em Destaque
 
 ### 🔹 Website Responsivo
 - HTML • CSS • JavaScript  
