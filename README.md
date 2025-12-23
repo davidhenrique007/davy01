@@ -46,24 +46,42 @@
 
 </p>
 
-🛠️ Tecnologias & Proficiência
+<h3>🛠️ Tecnologias & Proficiência</h3>
 
-<p align="center">
+<div align="center">
 
-| Tecnologias | 
-|------------|------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=nodejs,react,github,vscode" /> |
+<table>
+  <tr>
+    <th>Tecnologia</th>
+    <th>Nível</th>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>90% <img src="https://img.shields.io/badge/HTML-90%25-brightgreen" /></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>85% <img src="https://img.shields.io/badge/CSS-85%25-blue" /></td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>75% <img src="https://img.shields.io/badge/JS-75%25-yellow" /></td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>60% <img src="https://img.shields.io/badge/Node.js-60%25-339933" /></td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>65% <img src="https://img.shields.io/badge/React-65%25-61DAFB" /></td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>80% <img src="https://img.shields.io/badge/GitHub-80%25-181717" /></td>
+  </tr>
+</table>
 
-| Tecnologia | Nível |
-|------------|-------|
-| HTML       | 90% ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen) |
-| CSS        | 85% ![CSS](https://img.shields.io/badge/CSS-85%25-blue) |
-| JavaScript | 75% ![JS](https://img.shields.io/badge/JS-75%25-yellow) |
-| Node.js    | 60% ![Node.js](https://img.shields.io/badge/Node.js-60%25-339933) |
-| React      | 65% ![React](https://img.shields.io/badge/React-65%25-61DAFB) |
-| GitHub     | 80% ![GitHub](https://img.shields.io/badge/GitHub-80%25-181717) |
-
-</p>
+</div>
 ---
 
 
