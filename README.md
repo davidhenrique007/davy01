@@ -66,23 +66,6 @@
 
 </div>
 ---
-📂 Projetos em Destaque
-
- 🔹 Website Responsivo
-- HTML • CSS • JavaScript  
-- Layout moderno e adaptável a dispositivos móveis  
-🔗 [Ver projeto](https://github.com/davidhenrique007)
-
-🔹 Loja Virtual Simples
-- Interface de e-commerce  
-- Manipulação do DOM e eventos  
-🔗 [Ver projeto](https://github.com/davidhenrique007)
-
-🔹 Projeto com React *(em desenvolvimento)*
-- Componentes reutilizáveis  
-- Estado e organização de pastas  
-🔗 [Ver projeto](https://github.com/davidhenrique007)
-
 ## 📂 Projetos em Destaque
 
 ### 🔹 Website Responsivo
