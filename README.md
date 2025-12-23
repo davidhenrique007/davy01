@@ -24,8 +24,12 @@
 ## 🚀 Skills & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,</p>
-    <p nodejs,react,github,vscode"
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,github,vscode" />
+</p>react,github,vscode"
 </p>
 
 ---
