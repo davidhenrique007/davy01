@@ -43,11 +43,13 @@
 | GitHub     | 80% ![GitHub](https://img.shields.io/badge/GitHub-70%25-181717) |
 
 
-## 🛠️ Tecnologias & Proficiência
+🛠️ Tecnologias & Proficiência
 
-| Tecnologias | Tecnologias |
+<p align="center">
+
+| Tecnologias | 
 |------------|------------|
-| <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,react,github,vscode" /></p> |
+| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=nodejs,react,github,vscode" /> |
 
 | Tecnologia | Nível |
 |------------|-------|
@@ -57,21 +59,23 @@
 | Node.js    | 60% ![Node.js](https://img.shields.io/badge/Node.js-60%25-339933) |
 | React      | 65% ![React](https://img.shields.io/badge/React-65%25-61DAFB) |
 | GitHub     | 80% ![GitHub](https://img.shields.io/badge/GitHub-80%25-181717) |
+
+</p>
 ---
 
 
 📂 Projetos em Destaque
-### 🔹 Website Responsivo
+ 🔹 Website Responsivo
 - HTML • CSS • JavaScript  
 - Layout moderno e adaptável a dispositivos móveis  
 🔗 [Ver projeto](https://github.com/davidhenrique007)
 
-### 🔹 Loja Virtual Simples
+🔹 Loja Virtual Simples
 - Interface de e-commerce  
 - Manipulação do DOM e eventos  
 🔗 [Ver projeto](https://github.com/davidhenrique007)
 
-### 🔹 Projeto com React *(em desenvolvimento)*
+🔹 Projeto com React *(em desenvolvimento)*
 - Componentes reutilizáveis  
 - Estado e organização de pastas  
 🔗 [Ver projeto](https://github.com/davidhenrique007)
@@ -79,8 +83,7 @@
 📌 *Mais projetos serão adicionados conforme minha evolução.*
 
 ---
-
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidhenrique007&show_icons=true&theme=tokyonight" height="160"/>
@@ -89,7 +92,7 @@
 
 ---
 
-## 🛠️ Ferramentas que utilizo
+ 🛠️ Ferramentas que utilizo
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
