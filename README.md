@@ -31,7 +31,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,github,vscode"
 </p>
 
-🛠️ Tecnologias & Proficiência
+## 🛠️ Tecnologias & Proficiência
+
+<p align="center">
 
 | Tecnologia | Nível |
 |------------|-------|
@@ -40,8 +42,9 @@
 | JavaScript | 75% ![JS](https://img.shields.io/badge/JS-75%25-yellow) |
 | Node.js    | 60% ![Node.js](https://img.shields.io/badge/Node.js-60%25-339933) |
 | React      | 65% ![React](https://img.shields.io/badge/React-65%25-61DAFB) |
-| GitHub     | 80% ![GitHub](https://img.shields.io/badge/GitHub-70%25-181717) |
+| GitHub     | 80% ![GitHub](https://img.shields.io/badge/GitHub-80%25-181717) |
 
+</p>
 
 🛠️ Tecnologias & Proficiência
 
