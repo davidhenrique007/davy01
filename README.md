@@ -32,6 +32,18 @@
 </p>react,github,vscode"
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-90%25-brightgreen" />
+  <img src="https://img.shields.io/badge/CSS-85%25-blue" />
+  <img src="https://img.shields.io/badge/JS-75%25-yellow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-60%25-339933" />
+  <img src="https://img.shields.io/badge/React-65%25-61DAFB" />
+  <img src="https://img.shields.io/badge/GitHub-70%25-181717" />
+</p>
+
 ---
 
 ## 📂 Projetos em Destaque
