@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<h3>🛠️ Tecnologias & Proficiência</h3>
+<h3>🌐Tecnologias & Proficiência</h3>
 <table>
   <tr>
     <th>Tecnologia</th>
