@@ -61,8 +61,8 @@ Aqui estão alguns projetos que demonstram minha evolução e prática:
 ## 📫 Contato
 
 - 💼 LinkedIn: [linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)
-- 📧 Email: seuemail@email.com
-- 🌐 GitHub: https://github.com/SEU_USERNAME
+- 📧 Email: davidhenriqueantonio07@gmail.com
+- 🌐 GitHub: https://github.com/davidhenrique007
 
 ---
 
