@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=160&section=header&text=David%20Henrique&fontSize=40&fontColor=ffffff" />
 </p>
@@ -31,10 +30,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,github,vscode"
 </p>
 
-<h3>🛠️ Tecnologias & Proficiência</h3>
-
 <div align="center">
 
+<h3>🛠️ Tecnologias & Proficiência</h3>
 <table>
   <tr>
     <th>Tecnologia</th>
@@ -68,9 +66,8 @@
 
 </div>
 ---
-
-
 📂 Projetos em Destaque
+
  🔹 Website Responsivo
 - HTML • CSS • JavaScript  
 - Layout moderno e adaptável a dispositivos móveis  
