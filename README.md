@@ -1,69 +1,86 @@
-# davy01
-# 👋 Olá, eu sou David Henrique
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=160&section=header&text=David%20Henrique&fontSize=40&fontColor=ffffff" />
+</p>
 
-🎯 **Front-end Developer em formação**, focado em criar interfaces web modernas, responsivas e funcionais.  
-💻 Apaixonado por tecnologia, aprendizagem contínua e desenvolvimento de soluções digitais.
+<h2 align="center">Front-end Developer em Formação</h2>
+
+<p align="center">
+  Criando interfaces modernas, responsivas e acessíveis com foco em boas práticas e experiência do usuário.
+</p>
 
 ---
 
 ## 📌 About Me
 
-- 🎓 Estudante e entusiasta de **Desenvolvimento Web**
-- 🌍 Localização: Moçambique
-- 🚀 Em constante evolução em **Front-end Development**
-- 🧠 Interessado em boas práticas, acessibilidade e experiência do usuário (UI/UX)
-- 📚 Atualmente aprofundando conhecimentos em **JavaScript moderno e React**
+- 🎓 Estudante de **Desenvolvimento Web**
+- 🌍 Localização: **Moçambique**
+- 💻 Foco principal: **Front-end Development**
+- 📚 Atualmente estudando **JavaScript moderno, React e Node.js**
+- 🚀 Objetivo: evoluir para **Front-end Developer Júnior**
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills & Tecnologias
 
-### 🧩 Tecnologias & Ferramentas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,github,vscode" />
+</p>
 
 ---
 
-## 📂 Projects
+## 📂 Projetos em Destaque
 
-Aqui estão alguns projetos que demonstram minha evolução e prática:
+### 🔹 Website Responsivo
+- HTML • CSS • JavaScript  
+- Layout moderno e adaptável a dispositivos móveis  
+🔗 [Ver projeto](https://github.com/davidhenrique007)
 
-🔹 **Projeto 1 – Website Responsivo**
-- HTML, CSS e JavaScript
-- Layout moderno e adaptável
-👉 [Ver projeto](https://github.com/SEU_USERNAME/link-do-projeto)
+### 🔹 Loja Virtual Simples
+- Interface de e-commerce  
+- Manipulação do DOM e eventos  
+🔗 [Ver projeto](https://github.com/davidhenrique007)
 
-🔹 **Projeto 2 – Loja Virtual Simples**
-- Interface de e-commerce
-- Manipulação de DOM com JavaScript
-👉 [Ver projeto](https://github.com/SEU_USERNAME/link-do-projeto)
+### 🔹 Projeto com React *(em desenvolvimento)*
+- Componentes reutilizáveis  
+- Estado e organização de pastas  
+🔗 [Ver projeto](https://github.com/davidhenrique007)
 
-🔹 **Projeto 3 – Projeto com React (em desenvolvimento)**
-- Componentes e estado
-👉 [Ver projeto](https://github.com/SEU_USERNAME/link-do-projeto)
-
-📌 *Mais projetos em breve…*
+📌 *Mais projetos serão adicionados conforme minha evolução.*
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidhenrique007&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidhenrique007&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🛠️ Ferramentas que utilizo
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)
-- 📧 Email: davidhenriqueantonio07@gmail.com
+- 💼 LinkedIn: *(adicione quando criar)*
+- 📧 Email: **davidhenriqueantonio07@gmail.com**
 - 🌐 GitHub: https://github.com/davidhenrique007
 
 ---
 
-⭐ *Obrigado por visitar o meu perfil! Estou aberto a colaborações, aprendizado e novas oportunidades.*
+<p align="center">
+  ⭐ Obrigado por visitar o meu perfil! Estou aberto a colaborações e oportunidades de aprendizado.
+</p>
+
+<!-- Rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+</p>
