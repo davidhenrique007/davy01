@@ -3,126 +3,95 @@
 </p>
 
 <h2 align="center">
-Full Stack Developer | JavaScript • React • Node.js | Open to Remote Opportunities
+Full Stack Developer | React • Node.js • MongoDB • MySQL | Open to Remote (Portugal & Europe)
 </h2>
 
 <p align="center">
-Full Stack Developer with hands-on experience building modern web applications
-using the JavaScript ecosystem. Strong focus on clean code, responsive UI,
-component-based architecture and RESTful API development.
+Full Stack Developer experienced in building scalable web applications using the JavaScript ecosystem. 
+Focused on clean architecture, secure authentication, RESTful APIs, and modern deployment workflows.
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Full Stack Developer with practical experience in developing responsive and interactive web applications.
+Full Stack Developer with hands-on experience in developing end-to-end web applications, integrating front-end, back-end, and databases.
 
-✔ Front-end development with React and modern JavaScript (ES6+)  
-✔ Back-end development with Node.js  
-✔ REST API structure and routing  
-✔ Clean code principles and modular architecture  
-✔ Version control with Git and GitHub  
+✔ Front-end development with React (component-based architecture)  
+✔ Back-end development with Node.js and Express  
+✔ RESTful API design and integration  
+✔ Authentication using JWT  
+✔ Database integration (MongoDB & MySQL)  
+✔ MVC architecture implementation  
+✔ Environment variables configuration  
+✔ API testing using Postman  
+✔ Deployment on Vercel and Render  
+✔ Git version control and collaborative workflow  
 
-Currently open to remote opportunities in Portugal and across Europe.
-Motivated to grow within collaborative and high-performance development teams.
+Currently open to remote opportunities in Portugal and across Europe.  
+Motivated to contribute, grow professionally and work in performance-driven environments.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,github,vscode" />
 </p>
 
 ### Front-end
 - HTML5 (Semantic Markup)
-- CSS3 (Flexbox, Responsive Design, Mobile First)
-- JavaScript ES6+
-- React (Component-based architecture, State management, Reusable components)
+- CSS3 (Responsive Design, Flexbox, Mobile First)
+- JavaScript (ES6+)
+- React (Reusable Components, State Management)
 
 ### Back-end
 - Node.js
-- Express fundamentals
+- Express.js
 - RESTful APIs
-- Basic server-side architecture
+- MVC Architecture
+- JWT Authentication
+- Middleware usage
 
-### Development Practices
-- Git workflow
-- Project structure organization
-- Code readability and maintainability
-- Problem solving & debugging
+### Databases
+- MongoDB (NoSQL)
+- MySQL (Relational)
+- CRUD Operations
+- Data Modeling
+
+### DevOps & Tools
+- Environment Variables (.env configuration)
+- API Testing (Postman)
+- Deployment (Vercel, Render)
+- Git & GitHub
+- Debugging & Error Handling
 
 ---
 
-## 📂 Featured Projects
+## 📂 Full Stack Project Architecture
 
-### 🔹 Responsive Website
-Modern responsive interface focused on user experience.
+### 🔹 Full Stack Application (React + Node + Database)
 
-Tech:
-- HTML
-- CSS
-- JavaScript
+Application integrating:
 
-Highlights:
-- Mobile-first layout
-- Clean structure
-- Interactive components
+- Secure authentication (JWT)
+- REST API with Express
+- MVC structure (Controllers, Routes, Models)
+- Database connection (MongoDB/MySQL)
+- Front-end consumption of APIs
+- Deployment to production environment
 
 🔗 https://github.com/davidhenrique007
-
----
-
-### 🔹 E-commerce Interface
-Dynamic web application with DOM manipulation and business logic.
-
-Tech:
-- HTML
-- CSS
-- JavaScript
-
-Highlights:
-- Shopping cart logic
-- Product filtering
-- Dynamic rendering
-
-🔗 https://github.com/davidhenrique007
-
----
-
-### 🔹 React Application (In Progress)
-Scalable front-end architecture using React.
-
-Tech:
-- React
-- JavaScript
-- Component-based structure
-
-Focus:
-- Reusable components
-- Organized folder structure
-- State management principles
-
-🔗 https://github.com/davidhenrique007
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidhenrique007&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidhenrique007&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
 ## 🌍 Open to Opportunities
 
 ✔ Junior Full Stack Developer  
-✔ Front-end Developer (React)  
-✔ Remote positions (Portugal & Europe)  
-✔ Collaborative teams & growth-oriented environments  
+✔ React / Node.js Developer  
+✔ Backend Developer (Node.js)  
+✔ Remote roles (Portugal & Europe)  
+✔ International teams & scalable projects  
 
 ---
 
