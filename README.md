@@ -2,101 +2,113 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=160&section=header&text=David%20Henrique&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Front-end Developer em Formação</h2>
+<h2 align="center">
+Full Stack Developer | JavaScript • React • Node.js | Open to Remote Opportunities
+</h2>
 
 <p align="center">
-  Criando interfaces modernas, responsivas e acessíveis com foco em boas práticas e experiência do usuário.
+Full Stack Developer with hands-on experience building modern web applications
+using the JavaScript ecosystem. Strong focus on clean code, responsive UI,
+component-based architecture and RESTful API development.
 </p>
 
 ---
 
- 📌 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 Estudante de **Desenvolvimento Web**
-- 🌍 Localização: **Moçambique**
-- 💻 Foco principal: **Front-end Development**
-- 📚 Atualmente estudando **JavaScript moderno, React e Node.js**
-- 🚀 Objetivo: evoluir para **Front-end Developer Júnior**
+Full Stack Developer with practical experience in developing responsive and interactive web applications.
+
+✔ Front-end development with React and modern JavaScript (ES6+)  
+✔ Back-end development with Node.js  
+✔ REST API structure and routing  
+✔ Clean code principles and modular architecture  
+✔ Version control with Git and GitHub  
+
+Currently open to remote opportunities in Portugal and across Europe.
+Motivated to grow within collaborative and high-performance development teams.
 
 ---
 
-🚀 Skills & Tecnologias
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,github,vscode"
-</p>
+### Front-end
+- HTML5 (Semantic Markup)
+- CSS3 (Flexbox, Responsive Design, Mobile First)
+- JavaScript ES6+
+- React (Component-based architecture, State management, Reusable components)
 
-<div align="center">
+### Back-end
+- Node.js
+- Express fundamentals
+- RESTful APIs
+- Basic server-side architecture
 
-<h3>🌐Tecnologias & Proficiência</h3>
-<table>
-  <tr>
-    <th>Tecnologia</th>
-    <th>Nível</th>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td>90% <img src="https://img.shields.io/badge/HTML-90%25-brightgreen" /></td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td>85% <img src="https://img.shields.io/badge/CSS-85%25-blue" /></td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>75% <img src="https://img.shields.io/badge/JS-75%25-yellow" /></td>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td>60% <img src="https://img.shields.io/badge/Node.js-60%25-339933" /></td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td>65% <img src="https://img.shields.io/badge/React-65%25-61DAFB" /></td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td>80% <img src="https://img.shields.io/badge/GitHub-80%25-181717" /></td>
-  </tr>
-</table>
-
-</div>
----
-## 📂 Projetos em Destaque
-
-### 🔹 Website Responsivo
-- **Descrição:** Website moderno, totalmente responsivo, adaptável a diferentes dispositivos (desktop, tablet e mobile).  
-- **Tecnologias:** HTML, CSS, JavaScript  
-- **Funcionalidades:** Menu interativo, animações leves, formulários simples  
-- **Status:** Completo  
-- 🔗 [Ver projeto no GitHub](https://github.com/davidhenrique007)
+### Development Practices
+- Git workflow
+- Project structure organization
+- Code readability and maintainability
+- Problem solving & debugging
 
 ---
 
-### 🔹 Loja Virtual Simples
-- **Descrição:** Interface de e-commerce para prática de manipulação de DOM e eventos em JavaScript.  
-- **Tecnologias:** HTML, CSS, JavaScript  
-- **Funcionalidades:** Carrinho de compras, listagem de produtos, filtros básicos  
-- **Status:** Completo  
-- 🔗 [Ver projeto no GitHub](https://github.com/davidhenrique007)
+## 📂 Featured Projects
+
+### 🔹 Responsive Website
+Modern responsive interface focused on user experience.
+
+Tech:
+- HTML
+- CSS
+- JavaScript
+
+Highlights:
+- Mobile-first layout
+- Clean structure
+- Interactive components
+
+🔗 https://github.com/davidhenrique007
 
 ---
 
-### 🔹 Projeto com React *(em desenvolvimento)*
-- **Descrição:** Aplicação com React utilizando componentes reutilizáveis e gerenciamento de estado.  
-- **Tecnologias:** React, JavaScript, CSS  
-- **Funcionalidades:** Estrutura de componentes, rotas, estado centralizado  
-- **Status:** Em desenvolvimento  
-- 🔗 [Ver projeto no GitHub](https://github.com/davidhenrique007)
+### 🔹 E-commerce Interface
+Dynamic web application with DOM manipulation and business logic.
 
-📌 *Mais projetos serão adicionados conforme minha evolução.*
+Tech:
+- HTML
+- CSS
+- JavaScript
+
+Highlights:
+- Shopping cart logic
+- Product filtering
+- Dynamic rendering
+
+🔗 https://github.com/davidhenrique007
 
 ---
- 📊 GitHub Stats
+
+### 🔹 React Application (In Progress)
+Scalable front-end architecture using React.
+
+Tech:
+- React
+- JavaScript
+- Component-based structure
+
+Focus:
+- Reusable components
+- Organized folder structure
+- State management principles
+
+🔗 https://github.com/davidhenrique007
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidhenrique007&show_icons=true&theme=tokyonight" height="160"/>
@@ -105,29 +117,17 @@
 
 ---
 
- 🛠️ Ferramentas que utilizo
+## 🌍 Open to Opportunities
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: *(www.linkedin.com/in/david-henrique-antónio-4278b9205)*
-- 📧 Email: **davidhenriqueantonio07@gmail.com**
-- 🌐 GitHub: https://github.com/davidhenrique007
-- 📱 WhatsApp: https://wa.me/+258844626924
+✔ Junior Full Stack Developer  
+✔ Front-end Developer (React)  
+✔ Remote positions (Portugal & Europe)  
+✔ Collaborative teams & growth-oriented environments  
 
 ---
 
-<p align="center">
-  ⭐ Obrigado por visitar o meu perfil! Estou aberto a colaborações e oportunidades de aprendizado.
-</p>
+## 📫 Contact
 
-<!-- Rodapé -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-</p>
+LinkedIn: www.linkedin.com/in/david-henrique-antónio-4278b9205  
+Email: davidhenriqueantonio07@gmail.com  
+GitHub: https://github.com/davidhenrique007  
